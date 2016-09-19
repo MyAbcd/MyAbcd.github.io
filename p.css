@@ -44,19 +44,19 @@
 			margin: 0;
 			padding: 0;
 		}
-		#a-nav{
+		#top-nav{
 			height: 80px;
 			margin-left: 150px;
 		}
-		#a-nav ul{
+		#top-nav ul{
 			margin-top: 30px;
 		}
-		#a-nav ul li{
+		#top-nav ul li{
 			display: inline-block;
 			margin-left: 20px;
 			opacity: 0.6;
 		}
-		#a-nav ul li:hover{
+		#top-nav ul li:hover{
 			opacity: 1;
 		}
 	/* page1 */
