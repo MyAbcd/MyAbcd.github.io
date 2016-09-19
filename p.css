@@ -88,10 +88,25 @@
 		#info1 p,#info3 p,#info4 p{
 			padding-left: 180px;
 			font-size: 30px;
+			-webkit-transition-duration: 1s;
+		    	transition-duration: 1s;
+		    	-moz-transition-duration: 1s;
+		    	-o-transition-duration: 1s;
 		}
 		#info2 p{
 			padding-left: 260px;
 			font-size: 30px;
+			-webkit-transition-duration: 1s;
+			 transition-duration: 1s;
+		    	-moz-transition-duration: 1s;
+		    	-o-transition-duration: 1s;
+		}
+		#info p:hover{
+			-webkit-transform: rotate3D(1,0,0,360deg);
+			-moz-transform: rotate3D(1,0,0,360deg);
+			transform: rotate3D(1,0,0,360deg);
+			-o-transform: rotate3D(1,0,0,360deg);
+			color:#007799;
 		}
 		#info span:hover,#p2-con p:hover{
 			-webkit-transform: scale(1.3);
