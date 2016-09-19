@@ -72,7 +72,7 @@
 			height: 120px;
 			float: left;
 			padding: 0;
-			margin: 0;
+			margin: 0 0 0 50px;
 		}
 		#info h2{
 			display: inline;
