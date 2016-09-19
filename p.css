@@ -479,13 +479,14 @@
 	}
 	#p4-box span{
 		color: #fff;
-		padding:20px 0 0 0;
+		padding:0;
 		display: block;
 		width: 690px;
 		height: 270px;
 		background: url(images/12.png);
 		font-size: 20px;
 		text-align: center;
+		line-height: 80px;
 	}
 	#p4-box .p4-list{
 		position:relative;
