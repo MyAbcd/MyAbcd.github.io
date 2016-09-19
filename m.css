@@ -96,17 +96,17 @@
 		    100% {opacity: 1;}/*结束状态 透明度为1*/ 
 		}
  	/*page2*/
-		#con{
+		#p2-con{
 			padding: 0 10% 0 5%;
 			text-align: center;
 			margin-top: 5%;
 			float: left;
 			margin-left: -200%;
 		} 
-		#con h1{
+		#p2-con h1{
 			font-size: 20px;
 		}
-		#con p{
+		#p2-con p{
 			font-size: 15px;
 			margin-top: 10px;
 		}
