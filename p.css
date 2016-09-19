@@ -122,7 +122,7 @@
 		    100% {opacity: 1;}
 		} 
 	/* page2  */
-		#con{
+		#p2-con{
 			width: 600px;
 			height: 400px;
 			text-align: center;
@@ -130,10 +130,10 @@
 			float: left;
 			margin-left: -100%;
 		}
-		#con h1{
+		#p2-con h1{
 			font-size: 40px;
 		}
-		#con p{
+		#p2-con p{
 			font-size: 30px;
 			-webkit-transition-duration: 1s;
 		    transition-duration: 1s;
