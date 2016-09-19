@@ -68,8 +68,8 @@
 		    -webkit-animation:fade-in 2s;/*针对webkit内核*/  
 		}
 		#info1,#info2,#info3,#info4{
-			width: 400px;
-			height: 160px;
+			width: 500px;
+			height: 120px;
 			float: left;
 			padding: 0;
 			margin: 0;
